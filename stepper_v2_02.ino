@@ -1,6 +1,6 @@
 /*
    # pazapas
-  code Arduino pour l'exploitattion d'un moteur pas à pas 28BYJ (pas cher, peu de couple) - env. 64 pas / tour
+  code Arduino pour l'exploitation d'un moteur pas à pas 28BYJ (pas cher, pas/peu de couple) - env. 64 pas / tour
   
   montage: 
      - l'interrupteur placé en D2 -> GND permet d'inverser le sens de rotation (lorsque le circuit est ouvert, direction(var) est inversée)
@@ -9,7 +9,7 @@
   code source: https://forum.arduino.cc/t/change-direction-of-stepper-motor/363918
   le code n'utilise pas de lib (donne plus de couple, cf le thread)
   
-  forké par mrbbp pour le DNMADe Design graphique numérique, Rennes
+  forké par mrbbp pour le DNMADe Design graphique, Rennes
   Juin 2022
 
 */
